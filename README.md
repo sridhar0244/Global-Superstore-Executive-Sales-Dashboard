@@ -157,7 +157,7 @@ The project includes 20 SQL business analysis questions covering:
 
 ### Global Superstore – Executive Sales Dashboard
 
-![Global Superstore Executive Sales Dashboard](GlobalSuperstoreExecutiveSalesDashboard.png)
+![Global Superstore_Executive_Sales_Dashboard](Global Superstore Executive Sales Dashboard.png)
 
 ---
 
