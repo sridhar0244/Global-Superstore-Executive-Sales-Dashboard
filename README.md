@@ -1,5 +1,4 @@
-# Global Superstore_Executive_Sales_Dashboard
-# 📊 Global Superstore Data Analysis – SQL & Power BI
+# 📊 Global Superstore_Executive_Sales_Dashboard
 
 ## 📌 Project Overview
 
@@ -157,7 +156,7 @@ The project includes 20 SQL business analysis questions covering:
 
 ### Global Superstore – Executive Sales Dashboard
 
-![Global Superstore_Executive_Sales_Dashboard](Global Superstore Executive Sales Dashboard.png)
+![Global Superstore Executive Sales Dashboard](Global%20Superstore%20Executive%20Sales%20Dashboard.png)
 
 ---
 
